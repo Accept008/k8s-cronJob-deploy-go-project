@@ -1,4 +1,4 @@
-# go项目部署到Kubernetes集群CronJob(笔记)
+# go项目部署到Kubernetes集群CronJob项目参数配置(笔记)
     k8s-cronJob-deploy-go-project
 
 ### 方法一(k8s部署文件env环境变量)
